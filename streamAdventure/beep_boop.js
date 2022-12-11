@@ -139,7 +139,7 @@
 
 
 
-// CRYPT(out is not matching my output is not being displayed in string whereas the matching out should be in string)
+// CRYPT(output is not matching, my output is not being displayed in string whereas the matching output should be in string)
 // const crypto = require('crypto')
 // const stream = crypto.createDecipheriv('aes256', process.argv[2], process.argv[3]);
 // process.stdin.pipe(stream).pipe(process.stdout) 
